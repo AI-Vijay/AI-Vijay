@@ -48,19 +48,19 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AI-Vijay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Vijay&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-Vijay&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="Streak Stats" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AI-Vijay&style=flat-square&color=blue" alt="Profile Views" />
 </p>
