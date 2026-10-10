@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vijay%20Nagargoje&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Python%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Data%20Science&descAlignY=64&descSize=20](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vijay%20Nagargoje&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20MLOps%20%7C%20RAG%20%7C%20LLM%20Production&descAlignY=64&descSize=20" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vijay%20Nagargoje&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%7C%20Hackathon%20Winner%20%7C%20Python%20%E2%80%A2%20AI%20%E2%80%A2%20ML&descAlignY=64&descSize=20" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=680&lines=Hi+There!+%F0%9F%91%8B;I'm+Vijay+Nagargoje;A+Passionate+Python+%26+AI+Developer+%F0%9F%9A%80" />
