@@ -43,11 +43,11 @@ Passionate Python & AI Developer focused on building intelligent applications, m
       <b>AI &amp; Machine Learning</b><br />
       <sub>Scikit-Learn · PyTorch · TensorFlow<br />LLMs · RAG · Model Building</sub>
     </td>
-    <td align="center" width="33%">
+    <!-- <td align="center" width="33%">
       <img src="https://img.icons8.com/color/64/api-settings.png" width="48" /><br />
       <b>APIs &amp; Backends</b><br />
       <sub>FastAPI · Flask · Django<br />REST APIs · Databases</sub>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center">
@@ -58,12 +58,12 @@ Passionate Python & AI Developer focused on building intelligent applications, m
     <td align="center">
       <img src="https://img.icons8.com/color/64/deployment.png" width="48" /><br />
       <b>DevOps &amp; MLOps</b><br />
-      <sub>Docker · Git / GitHub<br />CI/CD · Model Deployment</sub>
+      <sub>Docker · Git / GitHub · Model Deployment</sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/64/deep-learning.png" width="48" /><br />
       <b>Deep Learning &amp; CV</b><br />
-      <sub>Neural Networks · OpenCV<br />Transfer Learning</sub>
+      <sub>Neural Networks · OpenCV </sub>
     </td>
   </tr>
 </table>
@@ -76,9 +76,9 @@ Passionate Python & AI Developer focused on building intelligent applications, m
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,githubactions,fastapi,flask,django,postgres,mysql,mongodb,opencv,numpy,vscode&perline=8" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" /> -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
