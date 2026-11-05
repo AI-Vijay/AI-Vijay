@@ -1,120 +1,237 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vijay%20Nagargoje&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%7C%20Hackathon%20Winner%20%7C%20Python%20%E2%80%A2%20AI%20%E2%80%A2%20ML&descAlignY=64&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vijay%20Nagargoje&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20Analytics&descAlignY=62&descSize=18" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=680&lines=Hi+There!+%F0%9F%91%8B;I'm+Vijay+Nagargoje;A+Passionate+Python+%26+AI+Developer+%F0%9F%9A%80" />
+  <a href="https://github.com/AI-Vijay"><img src="https://img.shields.io/badge/GitHub-AI--Vijay-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/vijay-nagargoje"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:nagargojevijay24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vijay-nagargoje-portfolio.tiiny.site"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AI-Vijay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vijay-nagargoje"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nagargojevijay24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Python%20%26%20AI%2FML%20Roles-brightgreen?style=for-the-badge" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AI-Vijay&label=Profile%20views&color=6236ff&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Building+Machine+Learning+%26+NLP+Solutions;Transforming+Data+into+Actionable+Insights;Exploring+Generative+AI+%26+Analytics" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Passionate Python & AI Developer focused on building intelligent applications, machine learning models, and scalable backend services.
+I'm **Vijay Bhagwat Nagargoje**, a final-year B.Tech student in **Artificial Intelligence & Data Science** at Maharashtra Institute of Technology, Chh. Sambhajinagar, with a **CGPA of 8.17/10**.
 
-- **Focus:** Artificial Intelligence, Machine Learning, Python Development, Data Engineering
-- **Interests:** LLMs, Deep Learning, Computer Vision, , RESTful APIs
-- **Goal:** Solving complex real-world problems through robust code and innovative AI solutions 
+I enjoy turning data into useful insights and building practical AI/ML applications. My experience spans machine learning pipelines, statistical analysis, NLP and transformer-based systems, as well as BI and ETL workflows using Power BI and Snowflake.
 
----
-
-## Expertise
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/python.png" width="48" /><br />
-      <b>Python Development</b><br />
-      <sub>Data Structures · Algorithms<br />OOP · Scripting · Automation</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/artificial-intelligence.png" width="48" /><br />
-      <b>AI &amp; Machine Learning</b><br />
-      <sub>Scikit-Learn · PyTorch · TensorFlow<br />LLMs · RAG · Model Building</sub>
-    </td>
-    <!-- <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/api-settings.png" width="48" /><br />
-      <b>APIs &amp; Backends</b><br />
-      <sub>FastAPI · Flask · Django<br />REST APIs · Databases</sub>
-    </td> -->
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/database.png" width="48" /><br />
-      <b>Data Science &amp; Engineering</b><br />
-      <sub>Pandas · NumPy · SQL<br />ETL · Data Visualization</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/deployment.png" width="48" /><br />
-      <b>DevOps &amp; MLOps</b><br />
-      <sub>Docker · Git / GitHub · Model Deployment</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/deep-learning.png" width="48" /><br />
-      <b>Deep Learning &amp; CV</b><br />
-      <sub>Neural Networks · OpenCV </sub>
-    </td>
-  </tr>
-</table>
+- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science
+- 📊 **CGPA:** 8.17/10
+- 💼 **Experience:** AI Intern at Suvidha Foundation
+- 🏆 **Achievement:** 1st Place, IoT Arena Hackathon
+- 👨‍🏫 **Community:** Mentored 45+ students in Snowflake learning activities
+- 🎯 **Career Interest:** Data Science, Machine Learning and Data Analytics opportunities
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL, JavaScript |
+| Data Analysis | Pandas, NumPy, Statistical Analysis, EDA |
+| Machine Learning | Scikit-learn, Regression, Classification, SVM, Naive Bayes |
+| Deep Learning & NLP | Transformers, BART, PEGASUS, T5, Longformer, OCR |
+| Generative AI | GPT-4o, Google Gemini, DeepSeek R1, RAG, Prompt Engineering |
+| Visualization | Power BI, Matplotlib, Seaborn, DAX, Power Query |
+| Databases | MySQL, Snowflake, SQL |
+| Data Engineering | ETL Pipelines, REST API Integration, Data Warehousing |
+| Cloud & Tools | AWS, Oracle Cloud, Google Cloud, Docker, Git, GitHub, Linux |
+| Frameworks | Streamlit, Flask |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,githubactions,fastapi,flask,django,postgres,mysql,mongodb,opencv,numpy,vscode&perline=8" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" /> -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,linux,flask,html,css,js&perline=10" />
 </p>
 
 ---
 
-## GitHub Insights
+## 💼 Professional Experience
+
+### Artificial Intelligence Intern — Suvidha Foundation
+**July 2025 – August 2025 | Remote**
+
+- Implemented and benchmarked abstractive text-summarization models using BART, PEGASUS, T5 and Longformer.
+- Designed reproducible ML pipelines with documented preprocessing, hyperparameters and training configurations.
+- Evaluated summarization performance using ROUGE and BERTScore.
+- Built model-performance visualizations using Matplotlib and Seaborn.
+- Prepared IEEE-format research write-ups, diagrams and presentations.
+- Maintained version-controlled documentation using GitHub.
+
+### Development Engineer — ClickGenius Pvt Ltd
+**June 2023 – July 2023 | Remote**
+
+- Engineered and maintained a MySQL relational database for a client-facing web platform.
+- Managed and supported reliable data interaction and retrieval across 100+ records.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Real-Time Weather ETL Pipeline & Power BI Dashboard
+
+**May 2026**
+
+🔗 **[View GitHub Repository](https://github.com/AI-Vijay/PowerBI-Weather-ETL-Dashboard)**
+
+- Built an end-to-end ETL workflow using live weather API data across six cities in Maharashtra.
+- Used Power Query (M) to extract, clean and flatten nested JSON responses.
+- Designed a star-schema semantic model with bi-directional cross-filtering.
+- Created 17 custom DAX measures, including AQI health-band categorization.
+
+**Technologies:** Power BI, Power Query, DAX, ETL, Weather API.
+
+### 2. Air Quality Monitoring Using Python
+
+🔗 **[View GitHub Repository](https://github.com/AI-Vijay/AQM-using-Python)**
+
+- Explore my Python-based air-quality monitoring project.
+- View the implementation, dataset and analysis directly in the repository.
+
+**Technologies:** Python, Data Analysis.
+
+### 3. Predicting Python Requirements in Data-Analyst Jobs — LinkedIn NLP
+
+**May 2025**
+
+- Scraped and cleaned Data Analyst job postings from LinkedIn.
+- Applied NLP and supervised machine learning to predict whether Python was required for a job.
+- Combined prompt-engineering-assisted feature extraction with statistical analysis and visualization to explore labour-market patterns.
+
+### 4. Diabetes-Risk Prediction Web App
+
+**2026**
+
+- Developed a Streamlit application to predict diabetes risk using the Pima Indians dataset.
+- Trained an SVM classifier.
+- Presented predictions with probability gauges and model explanations.
+
+### 5. Fake-News Detection Model
+
+**2026**
+
+- Built a fake-news classification model using TF-IDF features and a classical machine-learning baseline.
+- Documented feature-engineering decisions and model-evaluation trade-offs.
+
+### 6. COVID-19 Healthcare Analysis & Prediction
+
+**May 2025**
+
+- Applied data-science techniques to a healthcare dataset to predict COVID-19 likelihood.
+- Developed Python notebooks for data cleaning, exploratory data analysis and model building.
+
+### 7. Sentiment Analysis for Spam Text Identification
+
+**2024**
+
+- Trained a Multinomial Naive Bayes classifier on a supervised text-classification dataset.
+- Designed the workflow with potential integration into web and messaging platforms in mind.
+
+### 8. Smart Attendance System — BLE + Facial Recognition
+
+**March 2025 | 🏆 1st Place — IoT Arena Hackathon**
+
+- Built a smart-attendance prototype combining Bluetooth Low Energy (BLE) proximity sensing with facial-recognition verification.
+- Secured 1st Place at the IoT Arena Hackathon, JNEC (MGM University).
+
+---
+
+## 🎓 Education
+
+### Maharashtra Institute of Technology (MIT), Chh. Sambhajinagar
+**B.Tech — Artificial Intelligence & Data Science**
+
+August 2024 – July 2027 (Expected)
+
+- CGPA: **8.17/10**
+- Relevant Coursework: Machine Learning, Deep Learning, Data Structures & Algorithms, DBMS, Applied AI, Data Analytics, Prompt Engineering (Honors), Research Methodology.
+
+### MIT Polytechnic, Chh. Sambhajinagar
+**Diploma — Artificial Intelligence & Machine Learning**
+
+October 2021 – June 2024
+
+- Percentage: **77.61%**
+
+---
+
+## 📜 Certifications
+
+- NVIDIA — Fundamentals of Deep Learning
+- NVIDIA — Building Transformer-Based NLP Applications
+- NVIDIA — Building LLM Applications with Prompt Engineering
+- Oracle — Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Microsoft — AZ-901
+- NPTEL (IIT Madras) — Python for Data Science
+- IBM / Cognitive Class — Getting Started with Artificial Intelligence
+- IBM / Cognitive Class — Statistics 101
+- IBM / Cognitive Class — Python for Data Science
+- Snowflake / DataCamp — Introduction to Snowflake
+- Snowflake / DataCamp — Introduction to Snowflake SQL
+- Kaggle — Python, Pandas, Intro to Machine Learning
+- Coursera — Tweet Emotion Recognition with TensorFlow
+- Udemy — Power BI 101: Microsoft Power BI Essentials
+
+---
+
+## 🏆 Awards & Recognition
+
+- 🥇 **1st Place** — IoT Arena Hackathon, MGM University (March 2025).
+- 🥉 **3rd Place** — State-Level C Programming Competition, MIT.
+
+---
+
+## 👨‍🏫 Leadership & Community
+
+- **Snowflake Mentor (2026):** Mentored 45+ students and coordinated Snowflake learning events.
+- **IGNITE Student Association — Core Council Member (2026–Present):** Contribute to internal tooling and event planning.
+- **MIT-CSN Coding Club — Session Lead (2024–2025):** Led sessions on C programming and GitHub workflows.
+- **NVIDIA Workshop:** Coordinated a two-day hands-on workshop on Deep Learning.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AI-Vijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Vijay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AI-Vijay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Vijay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AI-Vijay&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
-## Contribution Activity
+## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-Vijay/AI-Vijay/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AI-Vijay/AI-Vijay/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AI-Vijay/AI-Vijay/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/AI-Vijay/AI-Vijay/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
-<p align="center"><i>Thanks for stopping by! Feel free to connect or reach out for collaboration.</i></p>
+## 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations involving **Data Science, Machine Learning, NLP, Generative AI and Data Analytics**.
+
+<p align="center">
+  <a href="mailto:nagargojevijay24@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/vijay-nagargoje">LinkedIn</a> •
+  <a href="https://github.com/AI-Vijay">GitHub</a> •
+  <a href="https://vijay-nagargoje-portfolio.tiiny.site">Portfolio</a>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" />
 </div>
