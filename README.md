@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Building+Machine+Learning+%26+Data + Analytics +Solutions;Transforming+Data+into+Actionable+Insights;Exploring+Generative+AI+%26+Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Building+Machine+Learning+%26+and+Data+Analytics+Solutions;Transforming+Data+into+Actionable+Insights;Exploring+Generative+AI+%26+Analytics" />
 </p>
 
 ---
