@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Building+Machine+Learning+%26+NLP+Solutions;Transforming+Data+into+Actionable+Insights;Exploring+Generative+AI+%26+Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Building+Machine+Learning+%26+Data + Analytics +Solutions;Transforming+Data+into+Actionable+Insights;Exploring+Generative+AI+%26+Analytics" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ I enjoy turning data into useful insights and building practical AI/ML applicati
 
 - 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science
 - 📊 **CGPA:** 8.17/10
-- 💼 **Experience:** AI Intern at Suvidha Foundation
+- 💼 **Experience:** AI Intern at SVM
 - 🏆 **Achievement:** 1st Place, IoT Arena Hackathon
 - 👨‍🏫 **Community:** Mentored 45+ students in Snowflake learning activities
 - 🎯 **Career Interest:** Data Science, Machine Learning and Data Analytics opportunities
