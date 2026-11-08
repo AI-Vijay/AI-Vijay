@@ -166,7 +166,7 @@ October 2021 – June 2024
 - NVIDIA — Fundamentals of Deep Learning
 - NVIDIA — Building Transformer-Based NLP Applications
 - NVIDIA — Building LLM Applications with Prompt Engineering
-- Oracle — Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Oracle — Oracle Cloud Infrastructure 2025 & 2026 twice Certified AI Foundations Associate
 - Microsoft — AZ-901
 - NPTEL (IIT Madras) — Python for Data Science
 - IBM / Cognitive Class — Getting Started with Artificial Intelligence
