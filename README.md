@@ -7,7 +7,7 @@
   <a href="https://github.com/AI-Vijay"><img src="https://img.shields.io/badge/GitHub-AI--Vijay-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/vijay-nagargoje"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:nagargojevijay24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vijay-nagargoje-portfolio.tiiny.site"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://vijaynagargoje.me"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -229,7 +229,7 @@ I'm interested in opportunities and collaborations involving **Data Science, Mac
   <a href="mailto:nagargojevijay24@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/vijay-nagargoje">LinkedIn</a> •
   <a href="https://github.com/AI-Vijay">GitHub</a> •
-  <a href="https://vijay-nagargoje-portfolio.tiiny.site">Portfolio</a>
+  <a href="https://vijaynagargoje.me/">Portfolio</a>
 </p>
 
 <div align="center">
