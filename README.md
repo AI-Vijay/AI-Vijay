@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vijay%20Nagargoje&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20Analytics&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vijay%20Nagargoje&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20AI%20%7C%20RAG&descAlignY=62&descSize=18" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Building+Machine+Learning+%26+and+Data+Analytics+Solutions;Transforming+Data+into+Actionable+Insights;Exploring+Generative+AI+%26+Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer+%7C+Data+Scientist;Building+RAG+and+Generative+AI+Applications;Developing+FinRag+with+Azure+OpenAI+and+FastAPI;Turning+Data+into+Intelligent+Solutions" />
 </p>
 
 ---
@@ -20,14 +20,16 @@
 
 I'm **Vijay Bhagwat Nagargoje**, a final-year B.Tech student in **Artificial Intelligence & Data Science** at Maharashtra Institute of Technology, Chh. Sambhajinagar, with a **CGPA of 8.17/10**.
 
-I enjoy turning data into useful insights and building practical AI/ML applications. My experience spans machine learning pipelines, statistical analysis, NLP and transformer-based systems, as well as BI and ETL workflows using Power BI and Snowflake.
+I am an **aspiring AI Engineer**, with **Data Scientist** as my second career focus. I build practical AI systems that connect language models, document retrieval, APIs, and data pipelines. My work spans retrieval-augmented generation (RAG), NLP, machine learning, financial-document intelligence, and analytics using Power BI and Snowflake.
+
+My featured project, **[FinRag](https://github.com/AI-Vijay/FinRag)**, brings together financial PDF ingestion, Azure OpenAI, Azure AI Search, FastAPI, and PostgreSQL in an interactive financial intelligence dashboard.
 
 - 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science
 - 📊 **CGPA:** 8.17/10
 - 💼 **Experience:** AI Intern at SVM
 - 🏆 **Achievement:** 1st Place, IoT Arena Hackathon
 - 👨‍🏫 **Community:** Mentored 45+ students in Snowflake learning activities
-- 🎯 **Career Interest:** Data Science, Machine Learning and Data Analytics opportunities
+- 🎯 **Career Focus:** AI Engineer (primary) · Data Scientist (secondary)
 
 ---
 
@@ -39,12 +41,12 @@ I enjoy turning data into useful insights and building practical AI/ML applicati
 | Data Analysis | Pandas, NumPy, Statistical Analysis, EDA |
 | Machine Learning | Scikit-learn, Regression, Classification, SVM, Naive Bayes |
 | Deep Learning & NLP | Transformers, BART, PEGASUS, T5, Longformer, OCR |
-| Generative AI | GPT-4o, Google Gemini, DeepSeek R1, RAG, Prompt Engineering |
+| AI Engineering & Generative AI | RAG, Azure OpenAI, Azure AI Search, Embeddings, Prompt Engineering, GPT-4o, Google Gemini, DeepSeek R1 |
 | Visualization | Power BI, Matplotlib, Seaborn, DAX, Power Query |
-| Databases | MySQL, Snowflake, SQL |
+| Databases | PostgreSQL, MySQL, Snowflake, SQL |
 | Data Engineering | ETL Pipelines, REST API Integration, Data Warehousing |
-| Cloud & Tools | AWS, Oracle Cloud, Google Cloud, Docker, Git, GitHub, Linux |
-| Frameworks | Streamlit, Flask |
+| Cloud & Tools | Microsoft Azure, AWS, Oracle Cloud, Google Cloud, Docker, Git, GitHub, Linux |
+| Frameworks | FastAPI, Streamlit, Flask |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,linux,flask,html,css,js&perline=10" />
@@ -74,7 +76,21 @@ I enjoy turning data into useful insights and building practical AI/ML applicati
 
 ## 🚀 Featured Projects
 
-### 1. Real-Time Weather ETL Pipeline & Power BI Dashboard
+### 1. FinRag — AI-Powered Financial Document Intelligence
+
+🔗 **[View GitHub Repository](https://github.com/AI-Vijay/FinRag)**
+
+- Built a financial document intelligence application that ingests PDF reports and makes their content searchable through Azure AI Search.
+- Integrated **Azure OpenAI** for document embeddings and AI-assisted financial questions and answers.
+- Developed a **FastAPI** backend with **PostgreSQL** storage for extracted financial metrics and a dashboard for comparing company KPIs.
+- Designed a dark FinTech interface displaying revenue, net income, operating income, cash flow, assets, liabilities, and qualitative insights.
+- Implemented document chunking and retrieval for grounded financial Q&A. The current retrieval implementation uses Azure AI Search text queries; vector embeddings are stored for indexing.
+
+**Technologies:** Python, FastAPI, Azure OpenAI, Azure AI Search, PostgreSQL, RAG, PDF Processing, HTML, CSS, JavaScript.
+
+> **Project highlight:** Financial report ingestion → document chunks and embeddings → Azure AI Search → AI-assisted answers and financial KPI dashboard.
+
+### 2. Real-Time Weather ETL Pipeline & Power BI Dashboard
 
 **May 2026**
 
@@ -87,7 +103,7 @@ I enjoy turning data into useful insights and building practical AI/ML applicati
 
 **Technologies:** Power BI, Power Query, DAX, ETL, Weather API.
 
-### 2. Air Quality Monitoring Using Python
+### 3. Air Quality Monitoring Using Python
 
 🔗 **[View GitHub Repository](https://github.com/AI-Vijay/AQM-using-Python)**
 
@@ -96,7 +112,7 @@ I enjoy turning data into useful insights and building practical AI/ML applicati
 
 **Technologies:** Python, Data Analysis.
 
-### 3. Predicting Python Requirements in Data-Analyst Jobs — LinkedIn NLP
+### 4. Predicting Python Requirements in Data-Analyst Jobs — LinkedIn NLP
 
 **May 2025**
 
@@ -104,7 +120,7 @@ I enjoy turning data into useful insights and building practical AI/ML applicati
 - Applied NLP and supervised machine learning to predict whether Python was required for a job.
 - Combined prompt-engineering-assisted feature extraction with statistical analysis and visualization to explore labour-market patterns.
 
-### 4. Diabetes-Risk Prediction Web App
+### 5. Diabetes-Risk Prediction Web App
 
 **2026**
 
@@ -112,28 +128,28 @@ I enjoy turning data into useful insights and building practical AI/ML applicati
 - Trained an SVM classifier.
 - Presented predictions with probability gauges and model explanations.
 
-### 5. Fake-News Detection Model
+### 6. Fake-News Detection Model
 
 **2026**
 
 - Built a fake-news classification model using TF-IDF features and a classical machine-learning baseline.
 - Documented feature-engineering decisions and model-evaluation trade-offs.
 
-### 6. COVID-19 Healthcare Analysis & Prediction
+### 7. COVID-19 Healthcare Analysis & Prediction
 
 **May 2025**
 
 - Applied data-science techniques to a healthcare dataset to predict COVID-19 likelihood.
 - Developed Python notebooks for data cleaning, exploratory data analysis and model building.
 
-### 7. Sentiment Analysis for Spam Text Identification
+### 8. Sentiment Analysis for Spam Text Identification
 
 **2024**
 
 - Trained a Multinomial Naive Bayes classifier on a supervised text-classification dataset.
 - Designed the workflow with potential integration into web and messaging platforms in mind.
 
-### 8. Smart Attendance System — BLE + Facial Recognition
+### 9. Smart Attendance System — BLE + Facial Recognition
 
 **March 2025 | 🏆 1st Place — IoT Arena Hackathon**
 
@@ -223,7 +239,7 @@ October 2021 – June 2024
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities and collaborations involving **Data Science, Machine Learning, NLP, Generative AI and Data Analytics**.
+I'm seeking **AI Engineer** opportunities first, followed by **Data Scientist** roles, and I welcome collaborations in RAG, Generative AI, NLP, and applied machine learning.
 
 <p align="center">
   <a href="mailto:nagargojevijay24@gmail.com">📧 Email</a> •
